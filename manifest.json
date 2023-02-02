@@ -1,0 +1,18 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Frodium Lite",
+  "version": "Lite 1.0",
+  "author": "WForst Breeze, Scandium Studios",
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.19.3",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.12",
+        "primary": true
+      }
+    ]
+  },
+  "files": []
+}
