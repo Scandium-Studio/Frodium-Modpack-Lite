@@ -1,8 +1,8 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "Frodium Lite",
-  "version": "Lite 1.0",
+  "name": "Frodium Modpack Lite",
+  "version": "Lite 1.1",
   "author": "WForst Breeze, Scandium Studios",
   "description": "",
   "fileApi": "",
@@ -209,7 +209,7 @@
     },
     {
       "path": "config/fabric/indigo-renderer.properties",
-      "hash": "402676e7afda8499e5c03869966cf2da3fbd2f9b",
+      "hash": "81c3441a3451bb82e868f331bec4a273374479a7",
       "force": true,
       "type": "addon"
     },
@@ -227,7 +227,7 @@
     },
     {
       "path": "config/fastload.properties",
-      "hash": "00e0a62b36966355cf7de17211d4c856d05992c5",
+      "hash": "b54f1e07bba12f390252b6174bd7d32ea08c2516",
       "force": true,
       "type": "addon"
     },
@@ -245,7 +245,7 @@
     },
     {
       "path": "config/indium-renderer.properties",
-      "hash": "ee453bbe536a38f8e8e6a88e4927fece6ebb35a0",
+      "hash": "7d49930ae12e2402a44402335f54552069f70867",
       "force": true,
       "type": "addon"
     },
@@ -263,7 +263,7 @@
     },
     {
       "path": "config/iris.properties",
-      "hash": "0d334db56f7d61b394813db56b2bef0445a63717",
+      "hash": "67f21d491c7c11b639b35cb1082d9ce20a68fe54",
       "force": true,
       "type": "addon"
     },
@@ -311,7 +311,7 @@
     },
     {
       "path": "config/lambdynlights.toml",
-      "hash": "710cd9c8fa409a64269e65e5e4992919066eae26",
+      "hash": "e862114a887f16c7732987dfcce3ab3a02a0fb19",
       "force": true,
       "type": "addon"
     },
@@ -413,7 +413,7 @@
     },
     {
       "path": "config/minihud.json",
-      "hash": "a13a8f57b2472a980863ba31bf05b152ec8b4bcc",
+      "hash": "4a14073318d62003794cc0796dec6fdf1a1acc72",
       "force": true,
       "type": "addon"
     },
@@ -533,13 +533,13 @@
     },
     {
       "path": "config/roughlyenoughitems/pinyin.properties",
-      "hash": "81b513a76eb8687730624baf863e69bc1adf6f41",
+      "hash": "a0884ffc0bf4f13aae870cc655d62d0f7de95017",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roughlyenoughitems/pinyin_double.properties",
-      "hash": "776d8af9e9145b79f2df0485d08686eacb9bb015",
+      "hash": "77e6319e24f7f24bd089db4f845189d39b60b989",
       "force": true,
       "type": "addon"
     },
@@ -581,7 +581,7 @@
     },
     {
       "path": "config/sodium-extra-options.json",
-      "hash": "4af3c5e53333558f92775eb7ff47732c4a601fba",
+      "hash": "36219d08d8d3fcd1f30f76e720e67d5fd00a89ca",
       "force": true,
       "type": "addon"
     },
@@ -671,13 +671,13 @@
     },
     {
       "path": "config/xaerominimap.txt",
-      "hash": "9823b0d263efb111c91be6755c42b06ddc4eded7",
+      "hash": "094323b54ed73cdc5ae41bec790a7e282acb3da1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/xaerominimap_entities.json",
-      "hash": "af70b0eb6a03a1b31f844fe321f8b63a7de248f3",
+      "hash": "9b31521ea52c6a80b65310639290b5628f9f64ad",
       "force": true,
       "type": "addon"
     },
@@ -689,7 +689,7 @@
     },
     {
       "path": "config/xaeroworldmap.txt",
-      "hash": "d10a38792b9819bd71ef86b36a4cb7e7132a9dd1",
+      "hash": "6c5ef2fc7ea6bd2f12cb56261c30a6b5c78bcb6c",
       "force": true,
       "type": "addon"
     },
@@ -702,12 +702,6 @@
     {
       "path": "config/zoomify.json",
       "hash": "0a0922abbc079118dbffa27d524a73f0b672d2bd",
-      "force": true,
-      "type": "addon"
-    },
-    {
-      "path": "crosshair_config.ccmcfg",
-      "hash": "78c4934aeeb9e5a70afdb4dca9c889900c45b2c2",
       "force": true,
       "type": "addon"
     },
@@ -1277,7 +1271,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "76a7a55eca779c81bf3193fab0ed457c42d517ae",
+      "hash": "0d5e95bb7419636b5ba8bba30ec34451e271295c",
       "force": true,
       "type": "addon"
     },
